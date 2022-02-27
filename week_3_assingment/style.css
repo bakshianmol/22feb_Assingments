@@ -1,0 +1,55 @@
+
+body {
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  border: 6px solid rgba(1, 12, 42, 0.479);
+  padding: 10px;
+  margin: 2px;
+  width: 100vw;
+  text-align: center;
+  background-color: rgb(250, 27, 127);
+}
+.sec {
+  width: 100vw;
+  padding: 20px;
+  text-align:left;
+  width: 100vw;
+  /* text-align: center; */
+  background-color: rgb(220, 233, 222);
+}
+#form {
+  width: 200px;
+  text-align: center;
+  margin-top: 40px;
+}
+.details {
+  padding: 0%;
+  color: rgb(255, 0, 0);
+  background-color: rgb(250, 204, 0);
+}
+video{
+    width: 600px;
+    border-radius: 20px;
+}
+p{
+  text-align: center;
+}
+img {
+  border-radius: 20px;
+  width: 400px;
+  height: 350px;
+}
+a , button{
+  color: white;
+  background-color: black;
+}
+#iframe {
+  text-align:left;
+  margin-left: 40%;
+}
+input {
+    padding: 3px;
+    margin: 6px
+}
